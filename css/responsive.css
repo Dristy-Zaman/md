@@ -1,0 +1,22 @@
+@media only screen and (max-width: 600px) {
+   
+    .menuber{
+        flex-direction: column;
+    }
+    .navber{
+        flex-direction: column;
+    }
+    .navber ul{
+        flex-direction: column;
+    }
+    .main-banner{
+        flex-direction: column;
+        width: 100%;
+    }
+    .banner-content{
+        width: 100%;
+    }
+    .banner-img{
+        width: 100%;
+    }
+  }

@@ -1,0 +1,103 @@
+*{
+    box-sizing: border-box;
+}
+
+
+.menuber{
+   display: flex;
+    justify-content: space-around;
+   
+    align-items: center;
+    background-color: antiquewhite;
+}
+
+.logo{
+
+}
+
+.logo h1{
+
+}
+
+.navber{
+       display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 10px;
+    font-size: 25px;
+}
+
+.navber ul{
+       display: flex;
+    list-style: none;
+}
+.fa-solid{
+    margin-left: 10px;
+}
+
+.navber ul li{
+margin-left: 39px;
+
+}
+
+.navber ul li a{
+text-decoration: none;
+
+}
+
+.se{
+
+}
+
+.main-banner{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    width: 80%;
+    margin: 74px auto;
+}
+
+.banner-content{
+    width: 50%;
+    border: 1px solid red;
+
+}
+
+.banner-img{
+    width: 50%;
+    border: 1px solid green;
+    background-image: url(../images/images/Circle\ design.svg);
+    background-repeat: no-repeat;
+    background-size: 97% 100%;
+}
+
+.banner-img img{
+    width: 80%;
+    margin: 0px auto;
+    display: flex;
+    align-items: center;
+}
+
+.main-card{
+    width: 80%;
+    margin: 0px auto;
+    min-height: 400px;
+    border: 10px solid pink;
+}
+
+.card-one{
+    width: 30% ;
+    border: 1px solid salmon;
+    padding: 10px;
+}
+.card-one img{
+    width: 100%;
+}
+.box-star{
+    display: flex;
+    text-align: center;
+    align-items: center;
+}
+.abcd{
+    color: rgb(163, 163, 9);
+}
